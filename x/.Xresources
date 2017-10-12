@@ -1,3 +1,5 @@
+#Esher's Xresources
+
 URxvt*termName:					rxvt-256color
 URxvt*font:						xft:Ttyp0:pixelsize=15
 URxvt*boldFont:					xft:Ttyp0:pixelsize=15

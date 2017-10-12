@@ -1,4 +1,5 @@
-"123
+"Esher's vim configuration
+
 colorscheme esher
 
 syntax on

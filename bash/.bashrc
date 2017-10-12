@@ -1,3 +1,5 @@
+# Esher's bash configuration
+
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
